@@ -1,2 +1,4 @@
+<!-- docs/_sidebar.md -->
+
 * [首页](/)
-* [电子信息](dzxx)
+* [dzxx](dzxx)
