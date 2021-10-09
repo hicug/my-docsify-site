@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
-
-* [首页](/)
-* [dzxx](dzxx)
+- [首页](/)
+- [dzxx](dzxx.md)
+- [jsj](jsj.md)
+- [gggl](gggl.md)
