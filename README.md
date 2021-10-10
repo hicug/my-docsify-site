@@ -29,13 +29,13 @@
 
 -----
 
-### **1998年专业目录**
+## 1998年本科专业目录
 - 公文 http://www.moe.gov.cn/srcsite/A08/moe_1034/s3882/199807/t19980706_109699.html
 - 详情 http://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/xk/xkzyml/276574.shtml
 
-### **2012年专业目录**
+## 2012年本科专业目录
 - 公文 http://www.moe.gov.cn/srcsite/A08/moe_1034/s3882/201209/t20120918_143152.html
 - 详情 http://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/xk/xkzyml/276559.shtml
 
-### **2020年专业目录**
+## 2020年本科专业目录
 - 公文  http://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202003/t20200303_426853.html
